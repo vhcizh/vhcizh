@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&&height=300&text=Soyoung%20Kim&section=header%20render&fontSize=50&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&&height=300&text=Soyoung%20Kim&section=header%20render&fontSize=50&fontAlign=25)
 <div align="left">
 <h4>🔍Skills</h4>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -45,8 +45,9 @@
 사용 기술 : **`Java`, `Spring`, `MyBatis`, `JSP`, `jQuery`, `Oracle`** <br>
 - Spring Security와 Mail API를 사용하여 회원가입 시 인증, 권한별 접근할 수 있는 페이지를 구분
 - Google Chart API를 사용하여 상품별 매출을 시각화
-##### 자세히 👉 <a href="https://github.com/vhcizh/Monder#readme" target="_blank"><img src="https://img.shields.io/badge/Monder-063752?style=flat-square&logo=github&logoColor=white"></a>
 
+<!-- ##### 자세히 👉 <a href="https://github.com/vhcizh/Monder#readme" target="_blank"><img src="https://img.shields.io/badge/Monder-063752?style=flat-square&logo=github&logoColor=white"></a>
+-->
 <!--
 **vhcizh/vhcizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
