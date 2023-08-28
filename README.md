@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&&height=300&text=Soyoung%20Kim&section=header%20render&fontSize=50&fontAlign=70)
 <div align="left">
-<h3>🔍Skills</h3>
+<h4>🔍Skills</h4>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
@@ -14,10 +14,11 @@
 <h4>🌱 I’m currently learning ...</h4>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
 <br>
-<h3>📫Contact</h3>
+<h4>📑 blog</h4>
 <a href="https://sso0.notion.site/HOME-9971c066c5534491964c26aaf0170133?pvs=4" target="_blank">
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white" >
 </a>
+<h4>📫e-mail</h4>
 <a href="mailto:sybz0748@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
