@@ -40,7 +40,7 @@
 ##### [구현 기능]
 - Spring Security와 JWT를 활용한 인증/인가 구현
 - GitHub Pages와 AWS EC2에 배포 (SSL 인증서 적용)
-##### [저장소 링크]
+##### [링크]
 - https://vhcizh.github.io/joayo
 
 <br>
