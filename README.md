@@ -32,27 +32,44 @@
 ## ✨ 주요 프로젝트
 
 ### 1. Joayo
-개인 프로젝트 <br><br>
-기간 : 2023.11.27 ~ 진행 중 <br>
-사용 기술 : **`Spring Boot`, `JPA`, `Vue3`, `MariaDB`, `Amazon EC2`** <br>
-- Spring Security를 활용한 인증/인가 구현
-- GitHub Pages와 AWS EC2에 배포 (SSH 인증서 적용)
-##### https://vhcizh.github.io/joayo
+개인 프로젝트
+##### [기간]
+2023.11.27 ~ (진행 중)
+##### [사용 기술]
+**`Spring Boot`, `JPA`, `Vue3`, `MariaDB`, `Amazon EC2`**
+##### [구현 기능]
+- Spring Security와 JWT를 활용한 인증/인가 구현
+- GitHub Pages와 AWS EC2에 배포 (SSL 인증서 적용)
+##### [저장소 링크]
+- https://vhcizh.github.io/joayo
 
 <br>
 
 ### 2. Groubee 
-
-그룹웨어 팀프로젝트(6인) <br><br>
-기간 : 2022.09.28 ~ 2022.10.27 <br>
-사용 기술 : **`Java`, `Spring`, `MyBatis`, `JSP`, `jQuery`, `Oracle`, `Amazon RDS`** <br>
-- STOMP를 활용한 실시간 그룹 채팅 구현
-- AWS RDS 구축 및 Oracle 데이터베이스 연동
-##### <a href="https://github.com/vhcizh/Groubee#readme" target="_blank"><img src="https://img.shields.io/badge/Groubee-063752?style=flat-square&logo=github&logoColor=white"></a>
-
+그룹웨어 팀프로젝트(6인) - 전자결재, 근태관리, 웹메일 등 다양한 서비스를 제공
+##### [기간]
+2022.09.28 ~ 2022.10.27
+##### [사용 기술]
+**`Spring`, `MyBatis`, `JSP`, `jQuery`, `Oracle`, `Amazon RDS`**
+##### [담당 역할]
+- 서비스 기획 및 ERD 설계 (공동)
+- AWS RDS 구축
+##### [구현 기능]
+- 웹소켓을 이용한 실시간 그룹 채팅
+- 초대/채팅 시 알림 기능
+- 자유게시판 및 공지사항, jQuery AJAX를 이용한 댓글 기능
+##### [성과 및 배운점]
+- 채팅방 테이블의 N:M 관계를 연결테이블을 사용하여 해결
+- 변경 사항을 즉각적으로 공유하기 위해 메신저와 구글 시트를 활용하여 의사소통 강화
+- Git을 활용한 협업 경험
+##### [저장소 링크]
+- https://github.com/vhcizh/Groubee#readme
+<!--
+    <a href="https://github.com/vhcizh/Groubee#readme" target="_blank"><img src="https://img.shields.io/badge/Groubee-063752?style=flat-square&logo=github&logoColor=white"></a>
+-->
 <br>
 
-### 2. Monder
+### 3. Monder
 쇼핑몰 개인프로젝트 <br><br>
 기간 : 2022.09.08 ~ 2022.09.23 <br>
 사용 기술 : **`Java`, `Spring`, `MyBatis`, `JSP`, `jQuery`, `Oracle`** <br>
