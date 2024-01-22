@@ -69,13 +69,14 @@
     <a href="https://github.com/vhcizh/Groubee#readme" target="_blank"><img src="https://img.shields.io/badge/Groubee-063752?style=flat-square&logo=github&logoColor=white"></a>
 -->
 <br>
-
+<!--
 ### 3. Monder
 쇼핑몰 개인프로젝트 <br><br>
 기간 : 2022.09.08 ~ 2022.09.23 <br>
 사용 기술 : **`Java`, `Spring`, `MyBatis`, `JSP`, `jQuery`, `Oracle`** <br>
 - Mail API를 사용하여 회원가입 시 인증
 - Google Chart API를 사용하여 상품별 매출을 시각화
+-->
 
 <!-- ##### 자세히 👉 <a href="https://github.com/vhcizh/Monder#readme" target="_blank"><img src="https://img.shields.io/badge/Monder-063752?style=flat-square&logo=github&logoColor=white"></a>
 -->
