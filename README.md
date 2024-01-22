@@ -62,7 +62,7 @@
 - 채팅방 테이블의 N:M 관계를 연결테이블을 사용하여 해결
 - 변경 사항을 즉각적으로 공유하기 위해 메신저와 구글 시트를 활용하여 의사소통 강화
 - Git을 활용한 협업 경험
-##### [링크]
+##### [저장소 링크]
 - https://github.com/vhcizh/Groubee#readme
 <!--
     <a href="https://github.com/vhcizh/Groubee#readme" target="_blank"><img src="https://img.shields.io/badge/Groubee-063752?style=flat-square&logo=github&logoColor=white"></a>
